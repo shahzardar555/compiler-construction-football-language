@@ -1,0 +1,7 @@
+kickoff
+<
+striker score
+score==>5
+shoot"Goal"
+>
+fulltime

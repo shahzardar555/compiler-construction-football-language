@@ -1,0 +1,7 @@
+kickoff
+<
+striker
+score ==> 5
+>
+fulltime
+
